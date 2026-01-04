@@ -12,7 +12,7 @@ const Footer = () => {
             whileHover={{ scale: 1.02 }}
           >
             <div className="w-10 h-10 rounded-xl bg-accent/20 flex items-center justify-center">
-              <Globe className="w-5 h-5 text-accent" />
+                  <img src="/favicon.ico" alt="Earth Lens Logo" className="w-5 h-5" />
             </div>
             <div>
               <span className="font-bold text-lg">Earth Lens</span>
