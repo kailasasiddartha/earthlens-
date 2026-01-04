@@ -45,7 +45,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-border/20 text-center text-sm text-muted-foreground">
-          <p>© 2024 Earth Lens. Built for a healthier planet.</p>
+          <p>© 2026 Earth Lens. Built for a healthier planet.</p>
         </div>
       </div>
     </footer>
