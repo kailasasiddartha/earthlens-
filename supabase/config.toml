@@ -1,0 +1,4 @@
+project_id = "pivgtiaslcdjhcmmtecu"
+
+[functions.verify-hazard]
+verify_jwt = false
