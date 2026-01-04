@@ -26,9 +26,6 @@ Earth Lens is a **Progressive Web App (PWA)** that enables citizens to capture g
 
 Valid reports are stored in Firebase and displayed in real-time on a public dashboard powered by the **Google Maps JavaScript API**.
 
-![Dashboard screenshot 1](https://via.placeholder.com/800x400?text=Real-time+Map+Dashboard)  
-![Dashboard screenshot 2](https://via.placeholder.com/800x400?text=Category+Filters+&+Markers)
-
 ## Key Features
 
 - Universal access via PWA (no app installation required)
@@ -57,9 +54,6 @@ Valid reports are stored in Firebase and displayed in real-time on a public dash
 
 Multimodal AI • Crowdsourcing • Waste Management • Road Infrastructure • Environmental Monitoring • Citizen Science
 
-## Setup & Deployment
-
-Coming soon: Detailed instructions for local development, Firebase setup, and deployment.
 
 ## Contributing
 
