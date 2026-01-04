@@ -1,8 +1,13 @@
 Earth Lens: A Multimodal AI Framework for the Detection of Targeted Environmental and Infrastructure Hazards
+
 Background: As global urbanization intensifies; critical infrastructure and natural ecosystems face mounting threats from hyper-local hazards. Large-scale monitoring systems frequently miss rapidly emerging issues such as deteriorating road networks, uncontrolled waste accumulation, and visible contamination of water bodies and shorelines. These problems, including unmanaged waste disposal, damaged roads, and collapsing structures, often originate locally but remain underreported at broader scales.
+
 Problem Statement: Current mechanisms for reporting localized hazards—particularly severe road potholes endangering safety, illegal waste dumps posing public health risks, and pollution in rivers, lakes, or coastal areas—are reactive, inefficient, and reliant on slow administrative processes. Delays in verification and mapping hinder timely municipal intervention, allowing environmental damage, safety risks, and inefficient resource allocation to escalate.
+
 Objective: This project develops Earth Lens, a decentralized, community-driven monitoring platform that transforms standard mobile devices into AI-verified sensors. The study demonstrates the potential of multimodal AI to automate the accurate identification and categorization of potholes, solid waste dumps, and aquatic/coastal contamination on a global scale, empowering citizens to contribute to problem awareness and response systems.
+
 Proposed Solution: Earth Lens is implemented as a Progressive Web App using JavaScript and Firebase, ensuring universal accessibility, and secure operations. Image capture leverages the Media Devices API, with geotagging via the Geolocation API. Verification occurs through Google Cloud Functions employing Google Gemini Flash with structured prompting to classify images into one of three categories or reject irrelevant submissions. Verified issues are stored in Firestore and Storage, then visualized in real time on a public dashboard powered by the Google Maps JavaScript API, featuring category-specific markers, filtering, and intuitive visualization.
+
 Expected Outcomes The deployment of Earth Lens is anticipated to generate a high-resolution, crowdsourced. 
 Key benefits include dramatically reduced verification times for authorities, enhanced data accuracy and reliability, improved prioritization of road repairs and environmental cleanups, greater transparency, and stronger community engagement in infrastructure protection.
 
