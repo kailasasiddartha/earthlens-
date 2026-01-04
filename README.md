@@ -8,9 +8,6 @@ Earth Lens is a decentralized, community-driven monitoring platform that transfo
 - Illegal solid waste dumps
 - Aquatic and coastal contamination
 
-![Pothole example](https://via.placeholder.com/800x400?text=Pothole+Detection)  
-![Waste dump example](https://via.placeholder.com/800x400?text=Illegal+Waste+Dump)  
-![Water pollution example](https://via.placeholder.com/800x400?text=Coastal+Pollution)
 
 ## Background
 
