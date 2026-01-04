@@ -11,8 +11,8 @@ const Footer = () => {
             className="flex items-center gap-3"
             whileHover={{ scale: 1.02 }}
           >
-            <div className="bg-accent/20 flex items-center justify-center">
-                  <img src="/favicon.ico" alt="Earth Lens Logo" className="rounded-xl w-14 h-14" />
+            <div className="bg-none flex items-center justify-center">
+                  <img src="/favicon.ico" alt="Earth Lens Logo" className="rounded-xl w-16 h-14" />
             </div>
             <div>
               <span className="font-bold text-lg">Earth Lens</span>
